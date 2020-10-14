@@ -6,6 +6,9 @@
 pr:
 - develop
 
+variables:
+  DistfFolder: dist
+
 pool:
   vmImage: 'ubuntu-latest'
 
